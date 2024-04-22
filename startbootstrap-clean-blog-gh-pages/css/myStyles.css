@@ -1,0 +1,16 @@
+h1{
+    color: white;
+}
+
+body{
+    background-color: azure;
+}
+
+.contact{
+    text-align: center;
+}
+
+.otherlink{
+    color: rgb(6, 6, 129);
+    text-decoration: underline;
+}

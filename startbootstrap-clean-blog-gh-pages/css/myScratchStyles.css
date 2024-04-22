@@ -1,0 +1,77 @@
+h5{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: lightgray;
+    text-align: center;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(0, 0, 0, 0.814);
+
+}
+
+
+
+.MainHeader{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+.BookTitles{
+    text-decoration: underline;
+}
+
+.footer{
+    padding-bottom: 10px;
+    padding-top: 10px;
+    text-align: center;
+    color: black;
+    height: 20px;
+    background-color: rgb(227, 235, 249);
+}
+
+.linktext {
+    position: sticky;
+    top: 0;
+    background-color: white;
+    border: 1px solid black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.centerindent{
+    text-align: center;
+}
+
+ul.myUl{
+    display: inline-block;
+    text-align: left;
+}
+
+ul{
+    text-align: center;
+    list-style-position: inside;
+    padding-left: 0px;
+}
+
+ol{
+    text-align: center;
+    list-style-position: inside;
+    padding-left: 0px;
+}
+
+.standouttext{
+    font-weight: bolder;
+    font-size: medium;
+    color: black;
+}
+
+.tableauPlaceholder{
+    width: 500px;
+}
